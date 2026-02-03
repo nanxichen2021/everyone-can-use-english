@@ -16,43 +16,26 @@ AI 是当今世界上最好的外语老师，Enjoy 做 AI 最好的助教。
 
 ## 网页版
 
-Enjoy 网页版已经上线，可访问 [https://enjoy.bot](https://enjoy.bot) 直接使用。
+Enjoy 全新版本已经上线，可访问 [https://enjoy.bot](https://enjoy.bot) 直接使用。
 
-<div align="center" style="display:flex;overflow:auto;gap:10px;">
-  <img src="./enjoy/snapshots/web-audios.jpg" alt="Audios" width="300" />
-  <img src="./enjoy/snapshots/web-add-audio.jpg" alt="Add Audio" width="300" />
-  <img src="./enjoy/snapshots/web-audio-shadow.jpg" alt="Shadow" width="300" />
-  <img src="./enjoy/snapshots/web-audio-assessment.jpg" alt="Assessment" width="300" />
-  <img src="./enjoy/snapshots/web-new-chat.jpg" alt="New Chat" width="300" />
-  <img src="./enjoy/snapshots/web-chat.jpg" alt="Chat" width="300" />
-</div>
+![](./enjoy/snapshots/screenshot-video.png)
+![](./enjoy/snapshots/screenshot-ebook.png)
+![](./enjoy/snapshots/screenshot-flashcard.png)
+![](./enjoy/snapshots/screenshot-course.png)
+
+## 浏览器插件
+
+Enjoy 浏览器插件已经上线，支持 YouTube 和 Netflix。可访问 [Chrome Web Store](https://chromewebstore.google.com/detail/enjoy-echo/hiijpdndbjfnffibdhajdanjekbnalob) 安装使用。
+
+![](./enjoy/snapshots/screenshot-youtube.png)
+![](./enjoy/snapshots/screenshot-netflix.png)
 
 ---
 
-## 桌面版安装及使用
+## 桌面版
 
-下载及使用相关说明，请参阅 [文档](https://1000h.org/enjoy-app/)。
+新版桌面版将会是对网页版的套壳和增强，即将发布。
 
-## 预览
-
-<div align="center" style="display:flex;overflow:auto;">
-  <img src="./enjoy/snapshots/home.png" alt="Home" width="800" />
-
-  <img src="./enjoy/snapshots/shadow.png" alt="Home" width="800" />
-
-  <img src="./enjoy/snapshots/assessment.png" alt="Home" width="800" />
-
-  <img src="./enjoy/snapshots/document.png" alt="Home" width="800" />
-
-  <img src="./enjoy/snapshots/chat.png" alt="Home" width="800" />
-</div>
-
-## 桌面版开发
-
-```bash
-yarn install
-yarn enjoy:start
-```
 
 ## 相关阅读
 
